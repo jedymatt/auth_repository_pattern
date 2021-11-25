@@ -1,5 +1,5 @@
 import 'package:auth_repository_pattern/src/domain/user_entity.dart';
-import 'package:auth_repository_pattern/src/domain/user_repository.dart';
+import 'package:auth_repository_pattern/src/domain/auth_repository.dart';
 import 'package:flutter/material.dart';
 
 enum AuthState {
