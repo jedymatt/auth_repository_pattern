@@ -66,7 +66,6 @@ class _LoginScreenState extends State<LoginScreen> {
                         return ListView(
                           children: [
                             Text(currentUser.uid),
-                            Text(currentUser.displayName!),
                           ],
                         );
                       },
